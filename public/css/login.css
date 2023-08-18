@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform:translate(-50%, -50%);
+  border-radius: 5px;
+  background-color: rgb(108, 105, 105);
+  text-align: center;
+}
+
+#submit {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.form-group {
+  margin: 15px;
+}
+
+#here {
+  color: white;
+}
